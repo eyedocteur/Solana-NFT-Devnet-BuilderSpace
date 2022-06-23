@@ -1,6 +1,6 @@
 .App {
   height: 100vh;
-  background-color: rgb(20, 20, 20);
+  background-color: #35aee2;
   overflow: scroll;
   text-align: center;
   overflow: hidden;
@@ -35,7 +35,7 @@
 }
 
 .sub-text {
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .gradient-text {
